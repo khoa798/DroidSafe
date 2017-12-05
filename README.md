@@ -1,2 +1,4 @@
-# DroidSafe
-Android Project - Mobile Applications.
+DroidSafe 
+Stephanie Shi (PO)
+Khoa Hoang
+Michael Lee 
